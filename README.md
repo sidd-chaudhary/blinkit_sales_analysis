@@ -158,7 +158,7 @@ The complete project report is available inside the **report** folder.
 
 # 👨‍💻 Author
 
-**Sidd Chaudhary**
+**Siddharth Chaudhary**
 
 MBA Student | Aspiring Data Analyst
 
